@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26747" started-at="2021-03-11T08:50:19Z" finished-at="2021-03-11T08:50:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26747" started-at="2021-03-11T08:50:19Z" finished-at="2021-03-11T08:50:46Z">
+      <class name="com.sunil.tests.ixigoHome">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="initialization" is-config="true" duration-ms="5614" started-at="2021-03-11T08:50:14Z" finished-at="2021-03-11T08:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="setUp" is-config="true" duration-ms="251" started-at="2021-03-11T08:50:19Z" finished-at="2021-03-11T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PageTitleTest()[pri:1, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="PageTitleTest" duration-ms="308" started-at="2021-03-11T08:50:20Z" finished-at="2021-03-11T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageTitleTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="tearDown" is-config="true" duration-ms="15" started-at="2021-03-11T08:50:20Z" finished-at="2021-03-11T08:50:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PageTitleTest status=SUCCESS method=ixigoHome.PageTitleTest()[pri:1, instance:com.sunil.tests.ixigoHome@7cd62f43] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="setUp" is-config="true" duration-ms="1" started-at="2021-03-11T08:50:20Z" finished-at="2021-03-11T08:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFlightandVerify()[pri:2, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="SearchFlightandVerify" duration-ms="16613" started-at="2021-03-11T08:50:20Z" finished-at="2021-03-11T08:50:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFlightandVerify -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-03-11T08:50:36Z" finished-at="2021-03-11T08:50:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchFlightandVerify status=SUCCESS method=ixigoHome.SearchFlightandVerify()[pri:2, instance:com.sunil.tests.ixigoHome@7cd62f43] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="setUp" is-config="true" duration-ms="2" started-at="2021-03-11T08:50:36Z" finished-at="2021-03-11T08:50:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PrintAirlineDetails()[pri:3, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="PrintAirlineDetails" duration-ms="9495" started-at="2021-03-11T08:50:36Z" finished-at="2021-03-11T08:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintAirlineDetails -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-03-11T08:50:46Z" finished-at="2021-03-11T08:50:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PrintAirlineDetails status=SUCCESS method=ixigoHome.PrintAirlineDetails()[pri:3, instance:com.sunil.tests.ixigoHome@7cd62f43] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:com.sunil.tests.ixigoHome@7cd62f43]" name="TeardownTest" is-config="true" duration-ms="1554" started-at="2021-03-11T08:50:46Z" finished-at="2021-03-11T08:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- com.sunil.tests.ixigoHome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
